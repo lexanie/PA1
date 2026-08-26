@@ -1,5 +1,9 @@
 ## ECE 2112 - Experiment 1: Introduction to Python Programming
-This repository contains my solution for Experiment 1: Introduction to Python Programming for ECE 2112: Advanced Computer Programming and Algorithms
+This repository contains my solution for Experiment 1: Introduction to Python Programming for ECE 2112: Advanced Computer Programming and Algorithms  
+
+This notebook solves three problems that practice string indexing/slicing, string methods, and extended sequence unpacking — no loops, classes, or external libraries required.  
+
+Author: DE LEON, Maria Nichole Lexanie C. Section: 2ECE-D  
 
 ### Experiment Overview
 This experiment focuses on **basic Python programming**.
